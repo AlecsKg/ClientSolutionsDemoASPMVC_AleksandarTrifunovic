@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientSolutions", "ClientSolutions\ClientSolutions.csproj", "{358E19EF-5F7C-49E6-993F-79D20CFB58DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EfLib", "EfLib\EfLib.csproj", "{F1E27875-09DE-4D61-8CAF-395D0EA1F83D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabaseCode", "DatabaseCode\DatabaseCode.csproj", "{6DFB3051-0E12-4A12-A0C2-19EA01893080}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{358E19EF-5F7C-49E6-993F-79D20CFB58DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{358E19EF-5F7C-49E6-993F-79D20CFB58DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{358E19EF-5F7C-49E6-993F-79D20CFB58DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{358E19EF-5F7C-49E6-993F-79D20CFB58DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1E27875-09DE-4D61-8CAF-395D0EA1F83D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1E27875-09DE-4D61-8CAF-395D0EA1F83D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1E27875-09DE-4D61-8CAF-395D0EA1F83D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1E27875-09DE-4D61-8CAF-395D0EA1F83D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DFB3051-0E12-4A12-A0C2-19EA01893080}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DFB3051-0E12-4A12-A0C2-19EA01893080}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DFB3051-0E12-4A12-A0C2-19EA01893080}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DFB3051-0E12-4A12-A0C2-19EA01893080}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A181C500-68E3-46A7-A667-FB68EAB3CFCE}
+	EndGlobalSection
+EndGlobal
